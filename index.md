@@ -1,2 +1,2 @@
-# Serves as entry
-hello world
+# Was soll man sagen
+Eine leere Seite! :)
